@@ -1,8 +1,10 @@
 # toktik
 
-A new Flutter project.
+App like a Tiktok
 
 ## Getting Started
+
+![Texto Alternativo](https://github.com/Cdominguez08/toktik/blob/main/assets/images/Screenshot_20240822_234945.png)
 
 This project is a starting point for a Flutter application.
 
